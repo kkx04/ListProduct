@@ -31,4 +31,6 @@
     <string name="AuthorName3">Martha McPhee</string>
     <string name="AuthorName4">Isabel Allende</string>
     <string name="AuthorName5">Rebecca Serle</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_author">Product Author</string>
 </resources>
